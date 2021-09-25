@@ -67,5 +67,3 @@ img{
         <img id=sledge src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQknk3vEGZIcMWnr-W7CyXo8fpxkNQyxyRJqsnFS756oWBcU3R6rRW4dnVWTFkThoLgc88:https://edge.disstg.commercecloud.salesforce.com/dw/image/v2/ABBS_STG/on/demandware.static/-/Sites-masterCatalog/default/dw1aa9d54d/images/large/56c494ad88a7e300458b4d5a.jpg&usqp=CAU" alt="Sledge"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxLjMQzY4RHz3l6N_3Pk7AEAhTDUNEFdNzIg:https://www.nme.com/wp-content/uploads/2020/10/Rainbow-Six-23.jpg&usqp=CAU" alt="Rainbow 6 logo">
      
  
-  </body>
-</html>
