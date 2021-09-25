@@ -37,7 +37,7 @@ img{
   <body style="background-color:skyblue;">
     <center><h1 style="background-color:red;"><b><i>Lorenzo's Homepage</i></b></h1> 
       <p>This is my Website.</p>
-    <p>I am Lorenzo Quintana and this is my website. I have been taking coding classes for 5 weeks and I still have a lot to learn. This website will tell you my hobbies,interests and other things I like. <p>
+    <p>I am Lorenzo Quintana and this is my website. I have been taking coding classes for 5 weeks and I still have a lot to learn. This website will tell you about my favorite games. <p>
     <hr>
       <h1> Gaming</h1>
       <table border>
